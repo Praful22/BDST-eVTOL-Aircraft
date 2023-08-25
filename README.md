@@ -6,7 +6,7 @@ The urge to look up and wonder "how?" creatures fly is so innate to homo sapiens
 
 So as an observer will it be safe to ask: Can one even observe flight just as it is? No image, no projections, literally nothing, just observe, observe, observe, and voila! Your entire consciousness is filled with what lies(interesting word choice) ahead of you. You lose the sense of time, space, relationship with your loved ones, hunger, and the most important thing in the world i.e. "YOU". Do you know that you may reach a state where "you are the world and the world is you!"? Can one even ponder this? Has anyone ever experienced this in oneself? 
 
-If yes, then maybe that was the whole reason why humans started studying nature and assigned the word "Ornithology". Some wise homosapien once said, "Words create Reality." So be it! 
+If yes, then maybe that was the whole reason why humans started studying nature and someone created the words "Ornithology" and "Aviation. Some wise homosapien once said, "Words create Reality." So be it! 
 
 
 # Design Process
