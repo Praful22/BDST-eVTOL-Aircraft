@@ -17,7 +17,7 @@ If yes, then maybe that was the whole reason why humans started studying nature 
 #### Duck
 
 ![image](https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/25078019-5701-41b5-bd29-413fa39c1943)
-#### Ruby Throated Hummingbird
+#### Hummingbird
 
 
 # Sketch of a Commercial eVTOL Aircraft
