@@ -8,6 +8,10 @@ So as an observer will it be safe to ask: Can one even observe flight just as it
 
 If yes, then maybe that was the whole reason why humans started studying nature and someone created the words "Ornithology" and "Aviation. Some wise homosapien once said, "Words create Reality." So be it! 
 
+**Ornithology** derives from the 16th-century Latin word "ornithologia" translating to "bird science" from the Greek word "ornis"(bird) and "logos"(theory, science) **meaning the scientific study of birds.**
+
+**Aviation** derives from the Latin word "avis" translating to "bird" and **meaning relating to activity of flying.**
+
 
 # Design Process
 <img width="1482" alt="Design Process" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/Flying Vehicle.png">
