@@ -1,5 +1,5 @@
 # BDSMTEVTOL-Aircraft
-This repository contains the build, design, simulation, and test of an autonomous Electric Vertical Take-Off and Landing(EVTOL) vehicle from scratch.
+This repository contains the build, design, simulation, and test of an autonomous Electric Vertical Take-Off and Landing(eVTOL) vehicle from scratch.
 
 #  Nature, Observation, and Ornithology
 The urge to look up and wonder "how?" creatures fly is so innate to homo sapiens that one misses the entirety of the beauty of flight during questioning. Quantum Mechanics states that the observer crashes the wave function to a wave. Schrodinger's not-so-funny portrayal of a cat in the box implied curiosity killed the cat. (Meow! Ouch!)
