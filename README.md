@@ -12,11 +12,12 @@ If yes, then maybe that was the whole reason why humans started studying nature 
 
 **Aviation** derives from the Latin word "avis" translating to "bird" and **meaning relating to the activity of flying.**
 
-### Birds Take-off Vertically:
+### Birds Capable of Taking-off/Hovering/Landing Vertically :
 ![image](https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/a47494a5-43ee-4efd-8dc3-105142851a63)
-
+#### Duck
 
 ![image](https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/25078019-5701-41b5-bd29-413fa39c1943)
+#### Ruby Throated Hummingbird
 
 
 # Sketch of a Commercial eVTOL Aircraft
