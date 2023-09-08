@@ -31,7 +31,7 @@ If yes, then maybe that was the whole reason why humans started studying nature 
 <img width="1482" alt="Design Process" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/Flying Vehicle.png">
 
 # Control Map 
-Credits to Controls Guru: Brain Douglas
+Credits to Control's Guru: Brain Douglas
 ![ControlChart drawio](https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/7d4cab7b-6f64-484f-91a0-8a3adf30b62f)
 
 
