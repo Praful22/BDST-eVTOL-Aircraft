@@ -22,6 +22,15 @@ If yes, then maybe that was the whole reason why humans started studying nature 
 ![image](https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/9ae9779f-0c22-4b17-b259-5df812d4cf7a)
 ### Kestrel
 
+![image](https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/29dee9a0-15f8-488a-ad72-5789a555133e)
+### Harrier
+
+![image](https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/5c7837d0-b22c-41d5-abfe-5169cf456db2)
+### Osprey
+
+![image](https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/488ae195-ba94-4762-8994-bbc22f7ee9d0)
+### Kingfisher
+
 
 # Sketch of a Commercial eVTOL Aircraft
 <img width="1482" alt="Cora" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/IMG_5940.jpg">
