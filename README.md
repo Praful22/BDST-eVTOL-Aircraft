@@ -35,4 +35,5 @@ Credits to Controls Guru: Brain Douglas
 ![ControlChart drawio](https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/7d4cab7b-6f64-484f-91a0-8a3adf30b62f)
 
 
-
+The above-shown Map shows a general pathway to navigate throughout the project. 
+One, many, or any methods/application strategies will be used in this project as deemed needed.
