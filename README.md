@@ -38,10 +38,7 @@ If yes, then maybe that was the whole reason why humans started studying nature 
 
 # Aircraft Flight Dynamics Equations of Motions
 
-
-<img width="613" alt="Screenshot 2023-09-08 at 11 14 41 AM" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/03193618-a558-48cb-901a-a2a2d78d52b6">
-
-
+<img width="583" alt="Screenshot 2023-09-08 at 10 02 38 PM" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/c119a747-9a85-4a8d-8c45-097b6e2d7ee2">
 
 
 # Design Process
