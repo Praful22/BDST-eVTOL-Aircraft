@@ -34,13 +34,11 @@ If yes, then maybe that was the whole reason why humans started studying nature 
 ### Kingfisher
 
 
-
 # Sketch of a Commercial eVTOL Aircraft
 <img width="1482" alt="Cora" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/IMG_5940.jpg">
 
-
 # Aircraft Flight Dynamics Equations of Motions
-
+<img width="808" alt="Screenshot 2023-09-09 at 9 53 10 PM" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/b16b7b5e-75a8-4696-bace-0d3cfcb9a99f">
 
 # Design Process
 <img width="1482" alt="Design Process" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/Flying Vehicle.png">
