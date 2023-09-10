@@ -38,8 +38,8 @@ If yes, then maybe that was the whole reason why humans started studying nature 
 <img width="1482" alt="Cora" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/IMG_5940.jpg">
 
 # Aircraft Flight Dynamics Equations of Motions
-<img width="837" alt="Screenshot 2023-09-09 at 9 57 39 PM" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/be214e2d-a641-41e6-a5d6-aa7b00cd65db">
 <img width="835" alt="Screenshot 2023-09-09 at 9 58 44 PM" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/98fe4489-8d58-46f2-8bda-9e5f86b59478">
+<img width="837" alt="Screenshot 2023-09-09 at 9 57 39 PM" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/be214e2d-a641-41e6-a5d6-aa7b00cd65db">
 
 
 # Design Process
