@@ -10,7 +10,7 @@ If yes, then maybe that was the whole reason why humans started studying nature 
 
 **Ornithology** derives from the 16th-century Latin word "ornithologia" translating to "bird science" from the Greek word "ornis"(bird) and "logos"(theory, science) **meaning the scientific study of birds.**
 
-**Aviation** derives from the Latin word "avis" translating to "bird" and **meaning relating to the activity of flying.**
+**Aviation** derives from the Latin word "avis" translating to "bird" and ** meaning relating to the activity of flying.**
 
 #### Since the topic of interest is vertical take-off and landing aircrafts, so let's look at some birds capable of taking off/hovering/landing vertically.
 
