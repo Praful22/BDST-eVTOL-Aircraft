@@ -1,4 +1,4 @@
-# BDSMTEVTOL-Aircraft
+# BDSMT-eVTOL-Aircraft
 This repository contains the build, design, simulation, and test of an autonomous Electric Vertical Take-Off and Landing(eVTOL) vehicle from scratch.
 
 #  Nature, Observation, and Ornithology
