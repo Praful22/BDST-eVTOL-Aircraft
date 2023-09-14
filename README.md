@@ -23,7 +23,7 @@ If yes, then maybe that was the whole reason why humans started studying nature 
 
 #### Hummingbird
 
-![image](https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/9ae9779f-0c22-4b17-b259-5df812d4cf7a)
+![image](https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/93503490-a844-46b1-aadb-a71d4ab8b5b8)
 ### Kestrel
 
 ![image](https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/29dee9a0-15f8-488a-ad72-5789a555133e)
