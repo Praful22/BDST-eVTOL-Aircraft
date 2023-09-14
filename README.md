@@ -165,7 +165,7 @@ r
 \end{align*}
 ```
 
-Checkout in more detail at : https://github.com/Praful22/AircraftFlightDynamics/main/README.md 
+Checkout in more detail at: https://github.com/Praful22/AircraftFlightDynamics/tree/main
 
 # Design Process
 <img width="1482" alt="Design Process" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/Flying Vehicle.png">
