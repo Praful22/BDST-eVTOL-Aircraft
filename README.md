@@ -15,7 +15,8 @@ If yes, then maybe that was the whole reason why humans started studying nature 
 #### Since the topic of interest is vertical take-off and landing aircrafts, so let's look at some birds capable of taking off/hovering/landing vertically.
 
 ### Birds Capable of Taking-off/Hovering/Landing Vertically :
-![image](https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/a47494a5-43ee-4efd-8dc3-105142851a63)
+<img width="1482" alt="Duck" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/ducktakingoff.jpeg">
+
 #### Duck
 
 ![image](https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/25078019-5701-41b5-bd29-413fa39c1943)
