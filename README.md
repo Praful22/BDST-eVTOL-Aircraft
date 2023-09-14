@@ -45,10 +45,127 @@ If yes, then maybe that was the whole reason why humans started studying nature 
 <img width="1482" alt="Cora" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/IMG_5940.jpg">
 
 # Aircraft Flight Dynamics Equations of Motions
-<img width="835" alt="Screenshot 2023-09-09 at 9 58 44 PM" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/98fe4489-8d58-46f2-8bda-9e5f86b59478">
-<img width="837" alt="Screenshot 2023-09-09 at 9 57 39 PM" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/be214e2d-a641-41e6-a5d6-aa7b00cd65db">
 
-A thorough explanation can be found here: https://github.com/Praful22/AircraftFlightDynamics/blob/main/README.md
+1. An aircraft is treated as a rigid body whose dynamics are comprised of three translational and three rotational degrees of freedom, hence 6-DoF motion.
+
+2. Body axes coordinate frame is fixed at the aircraft's center of gravity (CG).
+
+Motion can be described by:
+1. Translational Motion:
+
+    a. Forward Velocity $\textit{u}$ (positive along the fuselage-body x-axis)
+
+    b. Lateral Velocity $\textit{v}$ (positive along the right-wing-body y-axis)
+
+    c. Vertical Velocity $\textit{w}$ (positive down and along the body z-axis)
+
+
+2. Rotational degrees of freedom representing rotational motion:
+
+    a. Body roll rate $\textit{p}$ (around the x-axis)
+
+    b. Body pitch rate $\textit{q}$ (around the y-axis)
+
+    c. Body yaw rate $\textit{r}$ (around the z-axis)
+
+   Caveat: Positive angular rates(p,q,r) result in the counterclockwise rotations around their respective axis (x,y,z).
+
+The 6-DoF aircraft equations of motion may be modeled as:
+
+Translational Degree of Freedom: 
+```math
+\begin{aligned}
+& m\left(\begin{array}{c}
+\dot{u} \\
+\dot{v} \\
+\dot{w}
+\end{array}\right)=-\left[\left(\begin{array}{c}
+p \\
+q \\
+r
+\end{array}\right) \times\left(\begin{array}{c}
+u \\
+v \\
+w
+\end{array}\right)\right]+\left(\begin{array}{c}
+F_x \\
+F_y \\
+F_z
+\end{array}\right)
++ m \underbrace{\underbrace{\|\vec{g}\|}_g\left(\begin{array}{c}
+-\sin \theta \\
+\cos \theta \sin \varphi \\
+\cos \theta \cos \varphi
+\end{array}\right)}_{\vec{g}} \\
+\end{aligned}
+```
+Rotational Degree of Freedom:
+```math
+\begin{aligned}
+ J\left(\begin{array}{c}
+\dot{p} \\
+\dot{q} \\
+\dot{r}
+\end{array}\right)=-\left[\left(\begin{array}{c}
+p \\
+q \\
+r
+\end{array}\right) \times J\left(\begin{array}{c}
+p \\
+q \\
+r
+\end{array}\right)\right]+\left(\begin{array}{c}
+\bar{L} \\
+M \\
+N
+\end{array}\right) \\
+\end{aligned}
+```
+where, 
+
+```math
+\begin{align*}
+m &\triangleq \text{aircraft mass} \\
+J &\triangleq \text{Vehicle Inertia Matrix} \\
+(F_x, F_y, F_z) &\triangleq \underbrace{\text{Body (x,y,z) components of forces}}_{\text{Due to Aerodynamics and Propulsion}} \\
+(\bar{L}, M, N) &\triangleq \underbrace{\text{Body (x,y,z) components of Moments}}_{\text{Due to Aerodynamics and Propulsion}} \\
+\vec{g} &\triangleq \text{gravity vector} \\
+g &\triangleq \|\vec{g}\| = \text{Magnitude of the gravity vector}\\
+\end{align*}
+```
+The gravity vector is expressed in the aircraft body axes coordinates in terms of the following:
+
+```math
+\begin{align*}
+\phi &\triangleq \text{vehicle bank angle. Positive: Aircraft's right-wing down} \\
+\theta &\triangleq \text{Pitch angle. Positive: Aircraft nose-up} \\
+\psi &\triangleq \text{True heading angle. Positive: Clockwise rotation of the aircraft nose from the true north direction} \\
+\end{align*}
+```
+The three Euler angles $(\phi, \theta, \psi)$ represent the inertial angular orientation of aircraft if treated as a 
+rigid body moving in three-dimensional inertial space.
+
+The following kinematics relation describes the dynamics of the Euler angles versus the aircraft body angular rates ($\textit{p},\textit{q},\textit{r}$):
+
+```math
+\begin{align*}
+\left(\begin{array}{c}
+\dot{\varphi} \\
+\dot{\theta} \\
+\dot{\psi}
+\end{array}\right)=\left(\begin{array}{ccc}
+1 & \sin \varphi \tan \theta & \cos \varphi \tan \theta \\
+0 & \cos \varphi & -\sin \varphi \\
+0 & \frac{\sin \varphi}{\cos \theta} & \frac{\cos \varphi}{\cos \theta}
+\end{array}\right)\left(\begin{array}{l}
+p \\
+q \\
+r
+\end{array}\right)
+\end{align*}
+```
+
+Checkout in more detail at : https://github.com/Praful22/AircraftFlightDynamics/edit/main/README.md 
 
 # Design Process
 <img width="1482" alt="Design Process" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/Flying Vehicle.png">
