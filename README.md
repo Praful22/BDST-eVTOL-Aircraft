@@ -32,10 +32,12 @@ If yes, then maybe that was the whole reason why humans started studying nature 
 
 ### Harrier
 
-![image](https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/5c7837d0-b22c-41d5-abfe-5169cf456db2)
+<img width="1482" alt="Osprey" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/OspreyNASA.jpg">
+
 ### Osprey
 
-![image](https://github.com/Praful22/BDSMTEvtol-Aircraft/assets/65821250/488ae195-ba94-4762-8994-bbc22f7ee9d0)
+<img width="1482" alt="Kingfisher" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/px671271-image-kwvxl5r3.jpg">
+
 ### Kingfisher
 
 
