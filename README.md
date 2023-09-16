@@ -12,7 +12,7 @@ If yes, then maybe that was the whole reason why humans started studying nature 
 
 **Aviation** derives from the Latin word "avis" translating to "bird" and ** meaning relating to the activity of flying.**
 
-#### Since the topic of interest is vertical take-off and landing aircrafts, so let's look at some birds capable of taking off/hovering/landing vertically.
+#### Since the topic of interest is vertical take-off and landing aircraft, first let's look at some birds capable of taking off/hovering/landing vertically.
 
 ### Birds Capable of Taking-off/Hovering/Landing Vertically :
 
