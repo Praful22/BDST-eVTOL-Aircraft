@@ -12,33 +12,33 @@ If yes, then maybe that was the whole reason why humans started studying nature 
 
 **Aviation** derives from the Latin word "avis" translating to "bird" and ** meaning relating to the activity of flying.**
 
-#### Since the topic of interest is vertical take-off and landing aircraft, first let's look at some birds capable of taking off/hovering/landing vertically.
+## Since the topic of interest is vertical take-off and landing aircraft, first let's look at some birds capable of taking off/hovering/landing vertically.
 
-### Birds Capable of Taking-off/Hovering/Landing Vertically :
+## Birds Capable of Taking-off/Hovering/Landing Vertically :
 
 <img width="1482" alt="Duck" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/ducktakingoff.jpeg">
 
-### Duck
+## Duck
 
 <img width="1482" alt="HummingBird" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/Ruby-throated-hummingbird-vertical-takeoff.jpeg">
 
-### Hummingbird
+## Hummingbird
 
 <img width="1482" alt="Kestrel" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/Common-Kestrel-2.jpg">
 
-### Kestrel
+## Kestrel
 
 <img width="1482" alt="Harrier" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/Harrier.jpg">
 
-### Harrier
+## Harrier
 
 <img width="1482" alt="Osprey" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/OspreyNASA.jpg">
 
-### Osprey
+## Osprey
 
 <img width="1482" alt="Kingfisher" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/px671271-image-kwvxl5r3.jpg">
 
-### Kingfisher
+## Kingfisher
 
 
 # Sketch of a Commercial eVTOL Aircraft
