@@ -16,29 +16,25 @@ If yes, then maybe that was the whole reason why humans started studying nature 
 
 ## Birds Capable of Taking-off/Hovering/Landing Vertically :
 
+## Duck
 <img width="1482" alt="Duck" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/ducktakingoff.jpeg">
 
-## Duck
-
+## Hummingbird
 <img width="1482" alt="HummingBird" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/Ruby-throated-hummingbird-vertical-takeoff.jpeg">
 
-## Hummingbird
-
+## Kestrel
 <img width="1482" alt="Kestrel" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/Common-Kestrel-2.jpg">
 
-## Kestrel
-
+## Harrier
 <img width="1482" alt="Harrier" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/Harrier.jpg">
 
-## Harrier
-
+## Osprey
 <img width="1482" alt="Osprey" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/OspreyNASA.jpg">
 
-## Osprey
-
+## Kingfisher
 <img width="1482" alt="Kingfisher" src="https://github.com/Praful22/BDSMTEvtol-Aircraft/blob/main/px671271-image-kwvxl5r3.jpg">
 
-## Kingfisher
+
 
 
 # Sketch of a Commercial eVTOL Aircraft
